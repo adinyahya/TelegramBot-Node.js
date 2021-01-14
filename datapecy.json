@@ -1,0 +1,30 @@
+[
+  {
+    
+      "balance" : 500000,
+      "createAt" : 1563993488261,
+      "email" : "dina@gmail.com",
+      "refer" : 0,
+      "status" : "Pending",
+      "twitter" : "@dina",
+      "wallet" : "0x81bfc49baaf8dab3672a71567aeb6022c4672a86"
+    },
+    {
+      "balance" : 510000,
+      "createAt" : 1563992542908,
+      "email" : "lukman@gmail.com",
+      "refer" : 1,
+      "status" : "Pending",
+      "twitter" : "@lukman",
+      "wallet" : "0xcf3080983300f50fb875d3ed64eadf9b5b9b73ff"
+    },
+    {
+      "balance" : 500000,
+      "createAt" : 1563945004084,
+      "email" : "Ainurrofik2@yahoo.co.id",
+      "refer" : 0,
+      "status" : "Pending",
+      "twitter" : "@rovikl",
+      "wallet" : "0x0a8bda3b89f15eaeb1199933f89eb54968045408"
+    }
+]
