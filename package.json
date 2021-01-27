@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -14,7 +14,8 @@
     "async": "^3.1.0",
     "datatables.net": "^1.10.19",
     "firebase": "^6.2.4",
-    "node-telegram-bot-api": "^0.30.0"
+    "node-telegram-bot-api": "^0.30.0",
+    "nodemon": "^2.0.7"
   },
   "devDependencies": {
     "@vercel/node": "^1.9.0"
