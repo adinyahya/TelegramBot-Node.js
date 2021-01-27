@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "async": "^3.1.0",
-    "datatables.net": "^1.10.19",
+    "datatables.net": "^1.10.22",
     "firebase": "^6.2.4",
     "node-telegram-bot-api": "^0.30.0",
     "nodemon": "^2.0.7"
